@@ -1,4 +1,4 @@
-# Tag 2 – [Datum03.06.2026]
+# Tag 2 – [03.06.2026]
 
 ## Was habe ich heute gelernt?
 Wie Markdown funktioniert: # für Überschriften,
